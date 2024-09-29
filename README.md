@@ -28,7 +28,7 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 # Installation
 - via WGET
 ```
-wget -q https://raw.githubusercontent.com/wingshope/autoscript/main/xray && chmod +x xray && ./xray
+wget -q https://raw.githubusercontent.com/angga0x/autoscript/main/xray && chmod +x xray && ./xray
 ```
 
 ### SETTING CLOUDFLARE
